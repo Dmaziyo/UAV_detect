@@ -1,1 +1,10 @@
 # UAV_detect
+### login_page
+![Image text](https://raw.githubusercontent.com/Dmaziyo/UAV_detect/main/images/login.jpg)
+### register_page
+![Image text](https://raw.githubusercontent.com/Dmaziyo/UAV_detect/main/images/register.jpg)
+### homage_page
+![Image text](https://raw.githubusercontent.com/Dmaziyo/UAV_detect/main/images/home.jpg)
+### imformation
+![Image text](https://raw.githubusercontent.com/Dmaziyo/UAV_detect/main/images/ifm.jpg)
+### navigate
