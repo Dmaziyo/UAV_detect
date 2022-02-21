@@ -1,10 +1,11 @@
 # UAV_detect
-### login_page
+# 登录界面
 ![Image text](https://raw.githubusercontent.com/Dmaziyo/UAV_detect/main/images/login.jpg)
-### register_page
+# 注册界面
 ![Image text](https://raw.githubusercontent.com/Dmaziyo/UAV_detect/main/images/register.jpg)
-### homage_page
+# 主页
 ![Image text](https://raw.githubusercontent.com/Dmaziyo/UAV_detect/main/images/home.jpg)
-### imformation
+# 消息界面
 ![Image text](https://raw.githubusercontent.com/Dmaziyo/UAV_detect/main/images/ifm.jpg)
-### navigate
+### 导航
+![Image text](https://raw.githubusercontent.com/Dmaziyo/UAV_detect/main/images/navigate.jpg)
